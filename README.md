@@ -25,7 +25,7 @@ Webb operates in a *halo orbit*, circling a point in space known as the Sun–Ea
 |Name|Launch year|Wavelength (μm)|Aperture (m)|Cooling|
 |---|---|---|---|---|
 |Hubble Wide Field Camera 3 (WFC3)|2009|0.2–1.7|2.4|Passive and thermo-electric|
-|Herschel|Space Observatory|2009|55–672|3.5|Helium|
+|Herschel Space Observatory|2009|55–672|3.5|Helium|
 |James Webb Space Telescope|2021|0.6–28.5|6.5|Passive and cryocooler (MIRI)|
 
 ## Software
